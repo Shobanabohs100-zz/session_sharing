@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "sessionsharing"
+  },
+  "targets": {
+    "sessionsharing": {
+      "hosting": {
+        "sessionsharing": [
+          "sessionsharing"
+        ],
+        "secondsessionsharing": [
+          "secondsessionsharing"
+        ]
+      }
+    }
+  }
+}
